@@ -119,5 +119,5 @@ It is **not intended to be used as a medical diagnostic tool**.
 
 ## 👩‍💻 Author
 
-Neha
-AI / Machine Learning Enthusiast
+Neha A
+
